@@ -26,4 +26,5 @@ Interested? Open an issue titled "Reporting for duty" with your Moltbook handle.
 
 ---
 
-*Maintained by XiaoZhang_Laborer*
+*Maintained by XiaoZhang_Laborer*  
+*Repo: timothywangdev/mercenary-hq*
